@@ -1,6 +1,6 @@
-# Assignment 1
+# 作业一
 
-## Guideline
+## 指引
 
 ### 准备工作
 1. 登录GitHub账号。
@@ -22,10 +22,10 @@
 ![edit](https://lh3.googleusercontent.com/SVg0Dot-ptI9PvkSFqGuIhdWRcD0It700MqAYCB8zyakZY87Harcjde0YboQsDHLGFC3aZSGgF7jdOwm9pXrjz-OxMryCVjsybnuSxC39Mk5VRioCLKXAYZD_hM20r5IYzbY2sxNyn8RwmC-eUcu2TYmrkTMilifwdMfBapKtVsyVZ5SQpqYukjkubVpgo_lRAx0qjjSxO0moPSAJmsRlbn8b2ADK1tDlkvbnK-bhkyG6j2PieMovVLgqigg9x8i-25tptTX2znatehyWfX6d_eCnhbHymhBr0TKtm57qhP7KCdLK60xo8f_cSpOKPLKPMpb9yfpVy0Mhi2X2hTyvB38kY6h9NB6L0Sp18SRnnO7DnEQZ1dMrD6JfQIOT1O6f55K_VOQaUkzh7QjAbMhZw9tJuO_7y43EenA4o0HMk8sg0zwds3VGlauxQ3Cr_iq22_2LEcENLh8OcRm1bW67EW-ZsLHncrvi61Xnu7Zz8WVU8IkR1GwYc4yNB7KdRKz0SwDmI50M7xu5cbejZJcEiL00euC4xNUocWRHxRDyphPp0NxdOYV2vkPvKtFaRcvMU9FHXRHuT5BPU15yIxywV519iYYf9xA2hzUOvgUE9cjJJ8ISQqXPaHA8NBDKvYb_vi7rOszXgm0AH4w2a3gokWjKeFhTqX990ybfzt-8Z-ZLa3maPQEJfHbzNo51vgF13MBVaJM7RNhPo3of8zPIvSPbwC6qg2DzGrmbCaOgK_DsGI6PtE8pns=w845-h935-no)
 3. 写完作业后点击底部Commit changes保存修改。
 
-## Sample
+## 示例
 [点击这里](https://github.com/vwslz-teaching/assignment-1-CH-ROBOT) 
 
-## Q&A
+## 答疑
 ```diff
 - 能否使用中文或者中英混杂？
 + 1. 针对个人网站，根据自身的设计可以使用中文。
